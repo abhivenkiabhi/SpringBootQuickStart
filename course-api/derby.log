@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Apr 18 23:50:45 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0171-8e85-7df9-000012319a18 
+on database directory memory:/Users/kuabhabh/Documents/SpringBoot/course-api/testdb with class loader sun.misc.Launcher$AppClassLoader@2a139a55 
+Loaded from file:/Users/kuabhabh/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_241-b07
+user.dir=/Users/kuabhabh/Documents/SpringBoot/course-api
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
